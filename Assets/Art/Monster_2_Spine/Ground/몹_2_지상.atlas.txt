@@ -1,0 +1,15 @@
+몹_2_지상.png
+size:1580,288
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,731,284
+feelerL
+bounds:1508,52,37,80
+feelerR
+bounds:1462,38,44,94
+head
+bounds:735,6,725,280
+headB
+bounds:1462,134,152,116
+rotate:90

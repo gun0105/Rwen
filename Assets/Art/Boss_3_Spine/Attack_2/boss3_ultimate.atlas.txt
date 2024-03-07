@@ -1,0 +1,103 @@
+boss3_ultimate.png
+size:2882,2817
+filter:Linear,Linear
+pma:true
+B_d1
+bounds:1902,2419,694,230
+offsets:2,1,698,233
+B_d2
+bounds:1094,2445,806,218
+offsets:2,2,810,221
+B_d3
+bounds:2,2214,807,247
+offsets:1,1,809,249
+B_d4
+bounds:362,2463,730,216
+offsets:1,1,732,218
+fallen leaves1
+bounds:1738,842,808,867
+offsets:1,1,810,869
+rotate:90
+floor whirlwind1
+bounds:2281,2651,454,164
+offsets:3,2,460,169
+floor whirlwind2
+bounds:699,2685,377,130
+offsets:4,2,384,135
+floor whirlwind3
+bounds:1895,2665,384,150
+offsets:5,2,394,162
+floor whirlwind4
+bounds:1505,2673,388,142
+offsets:3,2,393,147
+floor whirlwind_un1
+bounds:1078,2681,425,134
+offsets:1,1,427,136
+floor whirlwind_un2
+bounds:2,2735,350,80
+offsets:1,1,353,82
+floor whirlwind_un3
+bounds:354,2722,343,93
+offsets:1,1,345,95
+floor whirlwind_un4
+bounds:2,2548,358,172
+offsets:1,1,361,174
+main_highlight1
+bounds:2,1285,777,927
+main_highlight2
+bounds:811,1684,759,964
+rotate:90
+main_highlight3
+bounds:1777,1652,765,981
+rotate:90
+main_highlight4
+bounds:781,889,793,955
+rotate:90
+sub_tornado_un1
+bounds:880,9,831,1035
+offsets:1,2,834,1038
+rotate:90
+sub_tornado_un3
+bounds:1917,2,838,963
+offsets:2,1,841,965
+rotate:90
+sub_tornado_un4
+bounds:2,75,876,812
+offsets:1,1,878,814
+
+boss3_ultimate_2.png
+size:2974,2919
+filter:Linear,Linear
+pma:true
+fallen leaves2
+bounds:2052,936,920,1007
+offsets:1,1,922,1009
+fallen leaves3
+bounds:2,998,942,1040
+offsets:1,1,944,1042
+fallen leaves4
+bounds:1125,1945,972,946
+offsets:2,2,975,949
+rotate:90
+sub_tornado1
+bounds:2,2,890,994
+offsets:3,3,895,999
+sub_tornado2
+bounds:946,121,918,1043
+offsets:2,2,923,1048
+rotate:90
+sub_tornado3
+bounds:946,1041,902,1104
+offsets:3,3,908,1109
+rotate:90
+sub_tornado4
+bounds:1991,2,932,980
+offsets:4,3,939,985
+rotate:90
+sub_tornado_un2
+bounds:2073,2041,876,861
+offsets:1,1,879,863
+rotate:90
+tornado_main
+bounds:2,2040,877,1121
+rotate:90

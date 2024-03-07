@@ -1,0 +1,41 @@
+boss3_normal.png
+size:2426,1884
+filter:Linear,Linear
+pma:true
+floor whirlwind1
+bounds:1904,747,454,164
+offsets:3,2,460,169
+floor whirlwind2
+bounds:2294,232,377,130
+offsets:4,2,384,135
+rotate:90
+floor whirlwind3
+bounds:1904,315,384,150
+offsets:5,2,394,162
+floor whirlwind4
+bounds:1904,467,388,142
+offsets:3,2,393,147
+floor whirlwind_un1
+bounds:1904,611,425,134
+offsets:1,1,427,136
+floor whirlwind_un2
+bounds:1226,818,350,80
+offsets:1,1,353,82
+floor whirlwind_un3
+bounds:881,805,343,93
+offsets:1,1,345,95
+floor whirlwind_un4
+bounds:1904,141,358,172
+offsets:1,1,361,174
+main_highlight1
+bounds:966,17,786,936
+rotate:90
+main_highlight2
+bounds:1655,913,742,969
+main_highlight3
+bounds:881,900,772,982
+main_highlight4
+bounds:2,2,801,962
+rotate:90
+tornado_main
+bounds:2,805,877,1077
